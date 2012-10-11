@@ -35,4 +35,4 @@ Para poder conocer mas sobre este juego adjunto un link de la pagina oficial [**
 
 Adjunto unas imagenes del Juego :
 
-![Imagen Stepmania](http://www.google.cl/imgres?q=stepmania&hl=es&sa=X&biw=1525&bih=712&tbm=isch&prmd=imvnsa&tbnid=JkuiqYQoBcIECM:&imgrefurl=http://tuxjuegos.tuxfamily.org/2007/02/16/stepmania/&docid=VOaPPCJb2-0jbM&imgurl=http://img153.imageshack.us/img153/2218/stepmania20164204qq8.jpg&w=640&h=513&ei=pOh2UOTVC5CFyQHS6oCICw&zoom=1&iact=hc&vpx=611&vpy=190&dur=2572&hovh=201&hovw=251&tx=133&ty=103&sig=116318288203779412366&page=1&tbnh=150&tbnw=187&start=0&ndsp=18&ved=1t:429,r:2,s:0,i:129)
+![Imagen Stepmania](http://img153.imageshack.us/img153/2218/stepmania20164204qq8.jpg)

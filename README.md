@@ -6,13 +6,6 @@
 1. es
 1. una lista enumerada
 
-2. esta es otra
-2. lista enumerada
-2. para el oscar
-
-* hola
-* como
-* estas
 
 + hola
 + choro

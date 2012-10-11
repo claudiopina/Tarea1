@@ -1,6 +1,8 @@
-#**Tarea1**
+#**Tarea Nº1 - Ayudantia Ingenieria de Software**
 
-##*Tarea 1 ISW*
+##*Tema - Juego Stepmania*
+
+###Reseña
 
 1. esto
 1. es

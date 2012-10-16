@@ -1,12 +1,13 @@
-#**Tarea Nº1 - Ayudantia Ingenieria de Software**
-
+#**Tarea Nï¿½1 - Ayudantia Ingenieria de Software**
+#weno y que pasa ranking boy?
+        jojojojojo
 ##*Tema - Juego Stepmania*
 
-###Reseña
+###Reseï¿½a
 
 
-**StepMania** es un programa tipo simulación inspirado en Dance Dance Revolution. Es software libre y totalmente gratuito, disponible para varios sistemas como Linux, 
-Windows o Mac OS X, como también su codigo fuente es utilizada para In The Groove, Pump It Up Pro, la variedad de software libre y de productos propietarios.
+**StepMania** es un programa tipo simulaciï¿½n inspirado en Dance Dance Revolution. Es software libre y totalmente gratuito, disponible para varios sistemas como Linux, 
+Windows o Mac OS X, como tambiï¿½n su codigo fuente es utilizada para In The Groove, Pump It Up Pro, la variedad de software libre y de productos propietarios.
 
 El porque de esta eleccion es forma de jugar.Esta forma consiste en usar las flechas del teclado y seguir una serie de secuencias que van dando puntaje segun se aprete
 en el momento indicado.Su contrincante mas cercano es Pump It Up el cual agrega una tecla mas y cambia la forma de jugar .

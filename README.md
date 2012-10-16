@@ -33,6 +33,6 @@ Algunas caracteristicas que hacen que **Stepmania** sea uno de mis juegos favori
 
 Para poder conocer mas sobre este juego adjunto un link de la pagina oficial [**Stepmania**](http://www.stepmania.com/)
 
-Adjunto unas imagenes del Juego :
+Adjunto una Captura del Juego **Stepmania** :
 
 ![Imagen Stepmania](http://img153.imageshack.us/img153/2218/stepmania20164204qq8.jpg)
